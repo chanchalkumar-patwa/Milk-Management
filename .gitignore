@@ -1,0 +1,34 @@
+*.class
+*.war
+*.jar
+*.zip
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+target/
+build/
+dist/
+
+# Database credentials
+db.properties
+application.properties
+*.env
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml" > .gitignore
